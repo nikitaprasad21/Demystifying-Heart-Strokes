@@ -47,7 +47,7 @@ When a heart stroke strikes, it sends shockwaves throughout the body, heralding 
 
 ### Life-saving measure - Unveiling the Treatments:
 
-In the face of a heart stroke, seeking immediate medical assistance is crucial, as every minute counts in minimizing damage to the heart. [Treatment] (https://www.who.int/news-room/questions-and-answers/item/cardiovascular-diseases-avoiding-heart-attacks-and-strokes) approaches may vary depending on the severity of the stroke and the patient's condition.
+In the face of a heart stroke, seeking immediate medical assistance is crucial, as every minute counts in minimizing damage to the heart. [Treatment](https://www.who.int/news-room/questions-and-answers/item/cardiovascular-diseases-avoiding-heart-attacks-and-strokes) approaches may vary depending on the severity of the stroke and the patient's condition.
 
 In some cases, medications such as aspirin or clot-dissolving drugs may be administered to restore blood flow and dissolve existing clots. In more critical situations, interventions like angioplasty or stent placement may be necessary to open blocked arteries and restore blood flow to the heart. Surgery, such as bypass surgery or valve repair, might be recommended for cases requiring more extensive intervention.
 
